@@ -1,6 +1,4 @@
-Arabic Sign Language Translation System
 
-Overview
 
 An integrated computer vision and deep learning system designed to translate Arabic Sign Language gestures into text and speech.
 
